@@ -31,7 +31,7 @@
 ``` 
 git clone https://github.com/daniiar-pro/fn-lab.git
 ```
-cd homework-3
+
 
 
 2.	Install dependencies
